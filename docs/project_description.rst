@@ -43,6 +43,8 @@ The Lemnatec Scanalyzer Field System is a high-throughput phenotyping field-scan
 
 PhytoOracle is a scalable, modular data pipeline for phenomics research. It uses `CCTools <http://ccl.cse.nd.edu/>`_ `Makeflow <http://ccl.cse.nd.edu/software/makeflow/>`_ workflow system for executing large complex workflows on clusters, clouds, and grids. PhytoOracle aims to significantly reduce data-processing times while providing reliable workflows for easy deployment.
 
+Check out our code at: https://github.com/uacic/PhytoOracle
+
 **PhytoOracle Solution:**
 	- Modular - uses containers for easy deployment and workflow-redesigns.
 	- Scalable - uses distributed-computing where possible to reduce processing times.
